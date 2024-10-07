@@ -1,0 +1,627 @@
+Team,Season_End_Year,Points,Rank
+Arsenal,1993,56,10.0
+Arsenal,1994,71,4.0
+Arsenal,1995,51,12.0
+Arsenal,1996,63,4.0
+Arsenal,1997,68,2.0
+Arsenal,1998,78,1.0
+Arsenal,1999,78,2.0
+Arsenal,2000,73,2.0
+Arsenal,2001,70,2.0
+Arsenal,2002,87,1.0
+Arsenal,2003,78,2.0
+Arsenal,2004,90,1.0
+Arsenal,2005,83,2.0
+Arsenal,2006,67,4.0
+Arsenal,2007,68,3.0
+Arsenal,2008,83,3.0
+Arsenal,2009,72,4.0
+Arsenal,2010,75,3.0
+Arsenal,2011,68,4.0
+Arsenal,2012,70,3.0
+Arsenal,2013,73,4.0
+Arsenal,2014,79,4.0
+Arsenal,2015,75,3.0
+Arsenal,2016,71,2.0
+Arsenal,2017,75,5.0
+Arsenal,2018,63,6.0
+Arsenal,2019,70,5.0
+Arsenal,2020,56,8.0
+Arsenal,2021,61,8.0
+Arsenal,2022,69,5.0
+Arsenal,2023,84,2.0
+Aston Villa,1993,74,2.0
+Aston Villa,1994,57,10.0
+Aston Villa,1995,48,18.0
+Aston Villa,1996,63,4.0
+Aston Villa,1997,61,5.0
+Aston Villa,1998,57,7.0
+Aston Villa,1999,55,6.0
+Aston Villa,2000,58,6.0
+Aston Villa,2001,54,8.0
+Aston Villa,2002,50,8.0
+Aston Villa,2003,45,16.0
+Aston Villa,2004,56,5.0
+Aston Villa,2005,47,10.0
+Aston Villa,2006,42,16.0
+Aston Villa,2007,50,11.0
+Aston Villa,2008,60,6.0
+Aston Villa,2009,62,6.0
+Aston Villa,2010,64,6.0
+Aston Villa,2011,48,9.0
+Aston Villa,2012,38,16.0
+Aston Villa,2013,41,14.0
+Aston Villa,2014,38,14.0
+Aston Villa,2015,38,16.0
+Aston Villa,2016,17,20.0
+Aston Villa,2020,35,17.0
+Aston Villa,2021,55,11.0
+Aston Villa,2022,45,14.0
+Aston Villa,2023,61,7.0
+Barnsley,1998,35,19.0
+Birmingham City,2003,48,13.0
+Birmingham City,2004,50,10.0
+Birmingham City,2005,45,12.0
+Birmingham City,2006,34,18.0
+Birmingham City,2008,35,19.0
+Birmingham City,2010,50,9.0
+Birmingham City,2011,39,18.0
+Blackburn,1993,71,4.0
+Blackburn,1994,84,2.0
+Blackburn,1995,89,1.0
+Blackburn,1996,61,6.0
+Blackburn,1997,42,13.0
+Blackburn,1998,58,6.0
+Blackburn,1999,35,19.0
+Blackburn,2002,46,10.0
+Blackburn,2003,60,6.0
+Blackburn,2004,44,15.0
+Blackburn,2005,42,15.0
+Blackburn,2006,63,6.0
+Blackburn,2007,52,10.0
+Blackburn,2008,58,7.0
+Blackburn,2009,41,13.0
+Blackburn,2010,50,9.0
+Blackburn,2011,43,15.0
+Blackburn,2012,31,19.0
+Blackpool,2011,39,18.0
+Bolton,1996,29,20.0
+Bolton,1998,40,17.0
+Bolton,2002,40,16.0
+Bolton,2003,44,17.0
+Bolton,2004,53,7.0
+Bolton,2005,58,5.0
+Bolton,2006,56,8.0
+Bolton,2007,56,7.0
+Bolton,2008,37,16.0
+Bolton,2009,41,13.0
+Bolton,2010,39,14.0
+Bolton,2011,46,12.0
+Bolton,2012,36,18.0
+Bournemouth,2016,42,15.0
+Bournemouth,2017,46,8.0
+Bournemouth,2018,44,10.0
+Bournemouth,2019,45,13.0
+Bournemouth,2020,34,18.0
+Bournemouth,2023,39,15.0
+Bradford City,2000,36,17.0
+Bradford City,2001,26,20.0
+Brentford,2022,46,13.0
+Brentford,2023,59,9.0
+Brighton,2018,40,15.0
+Brighton,2019,36,17.0
+Brighton,2020,41,15.0
+Brighton,2021,41,16.0
+Brighton,2022,51,9.0
+Brighton,2023,62,6.0
+Burnley,2010,30,18.0
+Burnley,2015,33,19.0
+Burnley,2017,40,16.0
+Burnley,2018,54,7.0
+Burnley,2019,40,15.0
+Burnley,2020,54,9.0
+Burnley,2021,39,17.0
+Burnley,2022,35,18.0
+Cardiff City,2014,30,20.0
+Cardiff City,2019,34,18.0
+Charlton Ath,1999,36,18.0
+Charlton Ath,2001,52,9.0
+Charlton Ath,2002,44,13.0
+Charlton Ath,2003,49,11.0
+Charlton Ath,2004,53,7.0
+Charlton Ath,2005,46,11.0
+Charlton Ath,2006,47,13.0
+Charlton Ath,2007,34,19.0
+Chelsea,1993,56,10.0
+Chelsea,1994,51,14.0
+Chelsea,1995,54,10.0
+Chelsea,1996,50,11.0
+Chelsea,1997,59,6.0
+Chelsea,1998,63,4.0
+Chelsea,1999,75,3.0
+Chelsea,2000,65,5.0
+Chelsea,2001,61,6.0
+Chelsea,2002,64,6.0
+Chelsea,2003,67,4.0
+Chelsea,2004,79,2.0
+Chelsea,2005,95,1.0
+Chelsea,2006,91,1.0
+Chelsea,2007,83,2.0
+Chelsea,2008,85,2.0
+Chelsea,2009,83,3.0
+Chelsea,2010,86,1.0
+Chelsea,2011,71,2.0
+Chelsea,2012,64,6.0
+Chelsea,2013,75,3.0
+Chelsea,2014,82,3.0
+Chelsea,2015,87,1.0
+Chelsea,2016,50,10.0
+Chelsea,2017,93,1.0
+Chelsea,2018,70,5.0
+Chelsea,2019,72,3.0
+Chelsea,2020,66,3.0
+Chelsea,2021,67,4.0
+Chelsea,2022,74,3.0
+Chelsea,2023,44,12.0
+Coventry City,1993,52,14.0
+Coventry City,1994,56,11.0
+Coventry City,1995,50,14.0
+Coventry City,1996,38,16.0
+Coventry City,1997,41,17.0
+Coventry City,1998,52,11.0
+Coventry City,1999,42,15.0
+Coventry City,2000,44,14.0
+Coventry City,2001,34,18.0
+Crystal Palace,1993,49,19.0
+Crystal Palace,1995,45,19.0
+Crystal Palace,1998,33,20.0
+Crystal Palace,2005,33,18.0
+Crystal Palace,2014,45,11.0
+Crystal Palace,2015,48,10.0
+Crystal Palace,2016,42,15.0
+Crystal Palace,2017,41,14.0
+Crystal Palace,2018,44,10.0
+Crystal Palace,2019,49,12.0
+Crystal Palace,2020,43,14.0
+Crystal Palace,2021,44,14.0
+Crystal Palace,2022,48,12.0
+Crystal Palace,2023,45,11.0
+Derby County,1997,46,10.0
+Derby County,1998,55,9.0
+Derby County,1999,52,8.0
+Derby County,2000,38,16.0
+Derby County,2001,42,14.0
+Derby County,2002,30,19.0
+Derby County,2008,11,20.0
+Everton,1993,53,13.0
+Everton,1994,44,17.0
+Everton,1995,50,14.0
+Everton,1996,61,6.0
+Everton,1997,42,13.0
+Everton,1998,40,17.0
+Everton,1999,43,14.0
+Everton,2000,50,13.0
+Everton,2001,42,14.0
+Everton,2002,43,15.0
+Everton,2003,59,7.0
+Everton,2004,39,17.0
+Everton,2005,61,4.0
+Everton,2006,50,11.0
+Everton,2007,58,6.0
+Everton,2008,65,5.0
+Everton,2009,63,5.0
+Everton,2010,61,8.0
+Everton,2011,54,7.0
+Everton,2012,56,7.0
+Everton,2013,63,6.0
+Everton,2014,72,5.0
+Everton,2015,47,11.0
+Everton,2016,47,11.0
+Everton,2017,61,7.0
+Everton,2018,49,8.0
+Everton,2019,54,8.0
+Everton,2020,49,12.0
+Everton,2021,59,9.0
+Everton,2022,39,16.0
+Everton,2023,36,17.0
+Fulham,2002,44,13.0
+Fulham,2003,48,13.0
+Fulham,2004,52,9.0
+Fulham,2005,44,13.0
+Fulham,2006,48,12.0
+Fulham,2007,39,16.0
+Fulham,2008,36,17.0
+Fulham,2009,53,7.0
+Fulham,2010,46,12.0
+Fulham,2011,49,8.0
+Fulham,2012,52,8.0
+Fulham,2013,43,12.0
+Fulham,2014,32,19.0
+Fulham,2019,26,19.0
+Fulham,2021,28,18.0
+Fulham,2023,52,10.0
+Huddersfield,2018,37,16.0
+Huddersfield,2019,16,20.0
+Hull City,2009,35,17.0
+Hull City,2010,30,18.0
+Hull City,2014,37,16.0
+Hull City,2015,35,18.0
+Hull City,2017,34,18.0
+Ipswich Town,1993,52,14.0
+Ipswich Town,1994,43,18.0
+Ipswich Town,1995,27,22.0
+Ipswich Town,2001,66,5.0
+Ipswich Town,2002,36,18.0
+Leeds United,1993,51,17.0
+Leeds United,1994,70,5.0
+Leeds United,1995,73,5.0
+Leeds United,1996,43,12.0
+Leeds United,1997,46,10.0
+Leeds United,1998,59,5.0
+Leeds United,1999,67,4.0
+Leeds United,2000,69,3.0
+Leeds United,2001,68,4.0
+Leeds United,2002,66,5.0
+Leeds United,2003,47,15.0
+Leeds United,2004,33,18.0
+Leeds United,2021,59,9.0
+Leeds United,2022,38,17.0
+Leeds United,2023,31,19.0
+Leicester City,1995,29,21.0
+Leicester City,1997,47,9.0
+Leicester City,1998,53,10.0
+Leicester City,1999,49,10.0
+Leicester City,2000,55,8.0
+Leicester City,2001,48,13.0
+Leicester City,2002,28,20.0
+Leicester City,2004,33,18.0
+Leicester City,2015,41,14.0
+Leicester City,2016,81,1.0
+Leicester City,2017,44,12.0
+Leicester City,2018,47,9.0
+Leicester City,2019,52,9.0
+Leicester City,2020,62,5.0
+Leicester City,2021,66,5.0
+Leicester City,2022,52,8.0
+Leicester City,2023,34,18.0
+Liverpool,1993,59,6.0
+Liverpool,1994,60,8.0
+Liverpool,1995,74,4.0
+Liverpool,1996,71,3.0
+Liverpool,1997,68,2.0
+Liverpool,1998,65,3.0
+Liverpool,1999,54,7.0
+Liverpool,2000,67,4.0
+Liverpool,2001,69,3.0
+Liverpool,2002,80,2.0
+Liverpool,2003,64,5.0
+Liverpool,2004,60,4.0
+Liverpool,2005,58,5.0
+Liverpool,2006,82,3.0
+Liverpool,2007,68,3.0
+Liverpool,2008,76,4.0
+Liverpool,2009,86,2.0
+Liverpool,2010,63,7.0
+Liverpool,2011,58,6.0
+Liverpool,2012,52,8.0
+Liverpool,2013,61,7.0
+Liverpool,2014,84,2.0
+Liverpool,2015,62,6.0
+Liverpool,2016,60,8.0
+Liverpool,2017,76,4.0
+Liverpool,2018,75,4.0
+Liverpool,2019,97,2.0
+Liverpool,2020,99,1.0
+Liverpool,2021,69,3.0
+Liverpool,2022,92,2.0
+Liverpool,2023,67,5.0
+Manchester City,1993,57,9.0
+Manchester City,1994,45,15.0
+Manchester City,1995,49,17.0
+Manchester City,1996,38,16.0
+Manchester City,2001,34,18.0
+Manchester City,2003,51,9.0
+Manchester City,2004,41,16.0
+Manchester City,2005,52,8.0
+Manchester City,2006,43,15.0
+Manchester City,2007,42,14.0
+Manchester City,2008,55,9.0
+Manchester City,2009,50,10.0
+Manchester City,2010,67,5.0
+Manchester City,2011,71,2.0
+Manchester City,2012,89,1.0
+Manchester City,2013,78,2.0
+Manchester City,2014,86,1.0
+Manchester City,2015,79,2.0
+Manchester City,2016,66,4.0
+Manchester City,2017,78,3.0
+Manchester City,2018,100,1.0
+Manchester City,2019,98,1.0
+Manchester City,2020,81,2.0
+Manchester City,2021,86,1.0
+Manchester City,2022,93,1.0
+Manchester City,2023,89,1.0
+Manchester Utd,1993,84,1.0
+Manchester Utd,1994,92,1.0
+Manchester Utd,1995,88,2.0
+Manchester Utd,1996,82,1.0
+Manchester Utd,1997,75,1.0
+Manchester Utd,1998,77,2.0
+Manchester Utd,1999,79,1.0
+Manchester Utd,2000,91,1.0
+Manchester Utd,2001,80,1.0
+Manchester Utd,2002,77,3.0
+Manchester Utd,2003,83,1.0
+Manchester Utd,2004,75,3.0
+Manchester Utd,2005,77,3.0
+Manchester Utd,2006,83,2.0
+Manchester Utd,2007,89,1.0
+Manchester Utd,2008,87,1.0
+Manchester Utd,2009,90,1.0
+Manchester Utd,2010,85,2.0
+Manchester Utd,2011,80,1.0
+Manchester Utd,2012,89,1.0
+Manchester Utd,2013,89,1.0
+Manchester Utd,2014,64,7.0
+Manchester Utd,2015,70,4.0
+Manchester Utd,2016,66,4.0
+Manchester Utd,2017,69,6.0
+Manchester Utd,2018,81,2.0
+Manchester Utd,2019,66,6.0
+Manchester Utd,2020,66,3.0
+Manchester Utd,2021,74,2.0
+Manchester Utd,2022,58,6.0
+Manchester Utd,2023,75,3.0
+Middlesbrough,1993,44,21.0
+Middlesbrough,1996,43,12.0
+Middlesbrough,1997,42,13.0
+Middlesbrough,1999,51,9.0
+Middlesbrough,2000,52,11.0
+Middlesbrough,2001,42,14.0
+Middlesbrough,2002,45,11.0
+Middlesbrough,2003,49,11.0
+Middlesbrough,2004,48,11.0
+Middlesbrough,2005,55,7.0
+Middlesbrough,2006,45,14.0
+Middlesbrough,2007,46,12.0
+Middlesbrough,2008,42,13.0
+Middlesbrough,2009,32,19.0
+Middlesbrough,2017,28,19.0
+Newcastle Utd,1994,77,3.0
+Newcastle Utd,1995,72,6.0
+Newcastle Utd,1996,78,2.0
+Newcastle Utd,1997,68,2.0
+Newcastle Utd,1998,44,13.0
+Newcastle Utd,1999,46,12.0
+Newcastle Utd,2000,52,11.0
+Newcastle Utd,2001,51,11.0
+Newcastle Utd,2002,71,4.0
+Newcastle Utd,2003,69,3.0
+Newcastle Utd,2004,56,5.0
+Newcastle Utd,2005,44,13.0
+Newcastle Utd,2006,58,7.0
+Newcastle Utd,2007,43,13.0
+Newcastle Utd,2008,43,12.0
+Newcastle Utd,2009,34,18.0
+Newcastle Utd,2011,46,12.0
+Newcastle Utd,2012,65,5.0
+Newcastle Utd,2013,41,14.0
+Newcastle Utd,2014,49,10.0
+Newcastle Utd,2015,39,15.0
+Newcastle Utd,2016,37,18.0
+Newcastle Utd,2018,44,10.0
+Newcastle Utd,2019,45,13.0
+Newcastle Utd,2020,44,13.0
+Newcastle Utd,2021,45,12.0
+Newcastle Utd,2022,49,11.0
+Newcastle Utd,2023,71,4.0
+Norwich City,1993,72,3.0
+Norwich City,1994,53,12.0
+Norwich City,1995,43,20.0
+Norwich City,2005,33,18.0
+Norwich City,2012,47,10.0
+Norwich City,2013,44,11.0
+Norwich City,2014,33,18.0
+Norwich City,2016,34,19.0
+Norwich City,2020,21,20.0
+Norwich City,2022,22,20.0
+Nott'ham Forest,1993,40,22.0
+Nott'ham Forest,1995,77,3.0
+Nott'ham Forest,1996,58,9.0
+Nott'ham Forest,1997,34,20.0
+Nott'ham Forest,1999,30,20.0
+Nott'ham Forest,2023,38,16.0
+Oldham Athletic,1993,49,19.0
+Oldham Athletic,1994,40,21.0
+Portsmouth,2004,45,13.0
+Portsmouth,2005,39,16.0
+Portsmouth,2006,38,17.0
+Portsmouth,2007,54,9.0
+Portsmouth,2008,57,8.0
+Portsmouth,2009,41,13.0
+Portsmouth,2010,28,20.0
+QPR,1993,63,5.0
+QPR,1994,60,8.0
+QPR,1995,60,8.0
+QPR,1996,33,19.0
+QPR,2012,37,17.0
+QPR,2013,25,20.0
+QPR,2015,30,20.0
+Reading,2007,55,8.0
+Reading,2008,36,17.0
+Reading,2013,28,19.0
+Sheffield Utd,1993,52,14.0
+Sheffield Utd,1994,42,20.0
+Sheffield Utd,2007,38,17.0
+Sheffield Utd,2020,54,9.0
+Sheffield Utd,2021,23,20.0
+Sheffield Weds,1993,59,6.0
+Sheffield Weds,1994,64,7.0
+Sheffield Weds,1995,51,12.0
+Sheffield Weds,1996,40,15.0
+Sheffield Weds,1997,57,7.0
+Sheffield Weds,1998,44,13.0
+Sheffield Weds,1999,46,12.0
+Sheffield Weds,2000,31,19.0
+Southampton,1993,50,18.0
+Southampton,1994,43,18.0
+Southampton,1995,54,10.0
+Southampton,1996,38,16.0
+Southampton,1997,41,17.0
+Southampton,1998,48,12.0
+Southampton,1999,41,17.0
+Southampton,2000,44,14.0
+Southampton,2001,52,9.0
+Southampton,2002,45,11.0
+Southampton,2003,52,8.0
+Southampton,2004,47,12.0
+Southampton,2005,32,20.0
+Southampton,2013,41,14.0
+Southampton,2014,56,8.0
+Southampton,2015,60,7.0
+Southampton,2016,63,6.0
+Southampton,2017,46,8.0
+Southampton,2018,36,17.0
+Southampton,2019,39,16.0
+Southampton,2020,52,11.0
+Southampton,2021,43,15.0
+Southampton,2022,40,15.0
+Southampton,2023,25,20.0
+Stoke City,2009,45,11.0
+Stoke City,2010,47,11.0
+Stoke City,2011,46,12.0
+Stoke City,2012,45,13.0
+Stoke City,2013,42,13.0
+Stoke City,2014,50,9.0
+Stoke City,2015,54,9.0
+Stoke City,2016,51,9.0
+Stoke City,2017,44,12.0
+Stoke City,2018,33,18.0
+Sunderland,1997,40,19.0
+Sunderland,2000,58,6.0
+Sunderland,2001,57,7.0
+Sunderland,2002,40,16.0
+Sunderland,2003,19,20.0
+Sunderland,2006,15,20.0
+Sunderland,2008,39,15.0
+Sunderland,2009,36,16.0
+Sunderland,2010,44,13.0
+Sunderland,2011,47,10.0
+Sunderland,2012,45,13.0
+Sunderland,2013,39,17.0
+Sunderland,2014,38,14.0
+Sunderland,2015,38,16.0
+Sunderland,2016,39,17.0
+Sunderland,2017,24,20.0
+Swansea City,2012,47,10.0
+Swansea City,2013,46,9.0
+Swansea City,2014,42,12.0
+Swansea City,2015,56,8.0
+Swansea City,2016,47,11.0
+Swansea City,2017,41,14.0
+Swansea City,2018,33,18.0
+Swindon Town,1994,30,22.0
+Tottenham,1993,59,6.0
+Tottenham,1994,45,15.0
+Tottenham,1995,62,7.0
+Tottenham,1996,61,6.0
+Tottenham,1997,46,10.0
+Tottenham,1998,44,13.0
+Tottenham,1999,47,11.0
+Tottenham,2000,53,10.0
+Tottenham,2001,49,12.0
+Tottenham,2002,50,8.0
+Tottenham,2003,50,10.0
+Tottenham,2004,45,13.0
+Tottenham,2005,52,8.0
+Tottenham,2006,65,5.0
+Tottenham,2007,60,5.0
+Tottenham,2008,46,11.0
+Tottenham,2009,51,8.0
+Tottenham,2010,70,4.0
+Tottenham,2011,62,5.0
+Tottenham,2012,69,4.0
+Tottenham,2013,72,5.0
+Tottenham,2014,69,6.0
+Tottenham,2015,64,5.0
+Tottenham,2016,70,3.0
+Tottenham,2017,86,2.0
+Tottenham,2018,77,3.0
+Tottenham,2019,71,4.0
+Tottenham,2020,59,6.0
+Tottenham,2021,62,7.0
+Tottenham,2022,71,4.0
+Tottenham,2023,60,8.0
+Watford,2000,24,20.0
+Watford,2007,28,20.0
+Watford,2016,45,13.0
+Watford,2017,40,16.0
+Watford,2018,41,14.0
+Watford,2019,50,11.0
+Watford,2020,34,18.0
+Watford,2022,23,19.0
+West Brom,2003,26,19.0
+West Brom,2005,34,17.0
+West Brom,2006,30,19.0
+West Brom,2009,32,19.0
+West Brom,2011,47,10.0
+West Brom,2012,47,10.0
+West Brom,2013,49,8.0
+West Brom,2014,36,17.0
+West Brom,2015,44,13.0
+West Brom,2016,43,14.0
+West Brom,2017,45,10.0
+West Brom,2018,31,20.0
+West Brom,2021,26,19.0
+West Ham,1994,52,13.0
+West Ham,1995,50,14.0
+West Ham,1996,51,10.0
+West Ham,1997,42,13.0
+West Ham,1998,56,8.0
+West Ham,1999,57,5.0
+West Ham,2000,55,8.0
+West Ham,2001,42,14.0
+West Ham,2002,53,7.0
+West Ham,2003,42,18.0
+West Ham,2006,55,9.0
+West Ham,2007,41,15.0
+West Ham,2008,49,10.0
+West Ham,2009,51,8.0
+West Ham,2010,35,17.0
+West Ham,2011,33,20.0
+West Ham,2013,46,9.0
+West Ham,2014,40,13.0
+West Ham,2015,47,11.0
+West Ham,2016,62,7.0
+West Ham,2017,45,10.0
+West Ham,2018,42,13.0
+West Ham,2019,52,9.0
+West Ham,2020,39,16.0
+West Ham,2021,65,6.0
+West Ham,2022,56,7.0
+West Ham,2023,40,14.0
+Wigan Athletic,2006,51,10.0
+Wigan Athletic,2007,38,17.0
+Wigan Athletic,2008,40,14.0
+Wigan Athletic,2009,45,11.0
+Wigan Athletic,2010,36,16.0
+Wigan Athletic,2011,42,16.0
+Wigan Athletic,2012,43,15.0
+Wigan Athletic,2013,36,18.0
+Wimbledon,1993,54,12.0
+Wimbledon,1994,65,6.0
+Wimbledon,1995,56,9.0
+Wimbledon,1996,41,14.0
+Wimbledon,1997,56,8.0
+Wimbledon,1998,44,13.0
+Wimbledon,1999,42,15.0
+Wimbledon,2000,33,18.0
+Wolves,2004,33,18.0
+Wolves,2010,38,15.0
+Wolves,2011,40,17.0
+Wolves,2012,25,20.0
+Wolves,2019,57,7.0
+Wolves,2020,59,6.0
+Wolves,2021,45,12.0
+Wolves,2022,51,9.0
+Wolves,2023,41,13.0

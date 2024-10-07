@@ -1,0 +1,121 @@
+Club,variable,value
+Arsenal,Appearances,70.77777777777777
+Aston-Villa,Appearances,38.04347826086956
+Brighton-and-Hove-Albion,Appearances,38.06896551724138
+Burnley,Appearances,112.19047619047619
+Chelsea,Appearances,74.44
+Crystal-Palace,Appearances,128.46428571428572
+Everton,Appearances,87.03571428571429
+Fulham,Appearances,23.863636363636363
+Leeds-United,Appearances,6.75
+Leicester-City,Appearances,77.85714285714286
+Liverpool,Appearances,95.51724137931035
+Manchester-City,Appearances,100.20833333333333
+Manchester-United,Appearances,89.18518518518519
+Newcastle-United,Appearances,88.46153846153847
+Sheffield-United,Appearances,46.583333333333336
+Southampton,Appearances,88.7
+Tottenham-Hotspur,Appearances,83.66666666666667
+West-Bromwich-Albion,Appearances,43.92
+West-Ham-United,Appearances,73.64
+Wolverhampton-Wanderers,Appearances,37.05
+Arsenal,Goals,8.555555555555555
+Aston-Villa,Goals,2.130434782608696
+Brighton-and-Hove-Albion,Goals,3.103448275862069
+Burnley,Goals,8.571428571428571
+Chelsea,Goals,8.76
+Crystal-Palace,Goals,12.821428571428571
+Everton,Goals,10.642857142857142
+Fulham,Goals,1.8636363636363635
+Leeds-United,Goals,0.5
+Leicester-City,Goals,9.607142857142858
+Liverpool,Goals,15.413793103448276
+Manchester-City,Goals,20.666666666666668
+Manchester-United,Goals,10.0
+Newcastle-United,Goals,9.0
+Sheffield-United,Goals,2.7916666666666665
+Southampton,Goals,9.4
+Tottenham-Hotspur,Goals,14.333333333333334
+West-Bromwich-Albion,Goals,3.76
+West-Ham-United,Goals,7.44
+Wolverhampton-Wanderers,Goals,3.35
+Arsenal,Assists,7.481481481481482
+Aston-Villa,Assists,2.4347826086956523
+Brighton-and-Hove-Albion,Assists,2.896551724137931
+Burnley,Assists,6.761904761904762
+Chelsea,Assists,6.36
+Crystal-Palace,Assists,6.892857142857143
+Everton,Assists,8.214285714285714
+Fulham,Assists,1.0
+Leeds-United,Assists,0.75
+Leicester-City,Assists,6.535714285714286
+Liverpool,Assists,12.620689655172415
+Manchester-City,Assists,12.916666666666666
+Manchester-United,Assists,7.7407407407407405
+Newcastle-United,Assists,6.3076923076923075
+Sheffield-United,Assists,1.75
+Southampton,Assists,5.9
+Tottenham-Hotspur,Assists,8.148148148148149
+West-Bromwich-Albion,Assists,3.16
+West-Ham-United,Assists,6.2
+Wolverhampton-Wanderers,Assists,2.75
+Arsenal,Tackles,92.29629629629629
+Aston-Villa,Tackles,48.73913043478261
+Brighton-and-Hove-Albion,Tackles,57.62068965517241
+Burnley,Tackles,182.1904761904762
+Chelsea,Tackles,115.64
+Crystal-Palace,Tackles,212.46428571428572
+Everton,Tackles,111.92857142857143
+Fulham,Tackles,30.454545454545453
+Leeds-United,Tackles,8.375
+Leicester-City,Tackles,113.46428571428571
+Liverpool,Tackles,126.27586206896552
+Manchester-City,Tackles,135.58333333333334
+Manchester-United,Tackles,122.5925925925926
+Newcastle-United,Tackles,101.15384615384616
+Sheffield-United,Tackles,66.91666666666667
+Southampton,Tackles,114.1
+Tottenham-Hotspur,Tackles,116.51851851851852
+West-Bromwich-Albion,Tackles,64.4
+West-Ham-United,Tackles,118.0
+Wolverhampton-Wanderers,Tackles,57.95
+Arsenal,Interceptions,68.5925925925926
+Aston-Villa,Interceptions,43.04347826086956
+Brighton-and-Hove-Albion,Interceptions,36.10344827586207
+Burnley,Interceptions,132.33333333333334
+Chelsea,Interceptions,82.64
+Crystal-Palace,Interceptions,154.78571428571428
+Everton,Interceptions,74.42857142857143
+Fulham,Interceptions,21.954545454545453
+Leeds-United,Interceptions,5.583333333333333
+Leicester-City,Interceptions,85.96428571428571
+Liverpool,Interceptions,79.79310344827586
+Manchester-City,Interceptions,98.04166666666667
+Manchester-United,Interceptions,95.37037037037037
+Newcastle-United,Interceptions,81.46153846153847
+Sheffield-United,Interceptions,49.25
+Southampton,Interceptions,79.85
+Tottenham-Hotspur,Interceptions,77.88888888888889
+West-Bromwich-Albion,Interceptions,48.04
+West-Ham-United,Interceptions,85.32
+Wolverhampton-Wanderers,Interceptions,38.7
+Arsenal,Passes per match,38.07259259259259
+Aston-Villa,Passes per match,25.479999999999997
+Brighton-and-Hove-Albion,Passes per match,20.15206896551724
+Burnley,Passes per match,23.31904761904762
+Chelsea,Passes per match,36.0496
+Crystal-Palace,Passes per match,21.06107142857143
+Everton,Passes per match,30.212500000000002
+Fulham,Passes per match,27.136363636363637
+Leeds-United,Passes per match,19.856666666666666
+Leicester-City,Passes per match,30.888214285714287
+Liverpool,Passes per match,30.047241379310346
+Manchester-City,Passes per match,40.92958333333333
+Manchester-United,Passes per match,34.632962962962964
+Newcastle-United,Passes per match,24.553076923076922
+Sheffield-United,Passes per match,21.14375
+Southampton,Passes per match,24.8945
+Tottenham-Hotspur,Passes per match,28.25962962962963
+West-Bromwich-Albion,Passes per match,18.332
+West-Ham-United,Passes per match,23.0836
+Wolverhampton-Wanderers,Passes per match,22.569499999999998
